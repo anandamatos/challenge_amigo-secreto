@@ -8,8 +8,6 @@
   <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
 </p>
 
-> Status do Projeto: :heavy_check_mark: Concluído
-
 ### Tópicos 
 
 :small_blue_diamond: [Descrição do projeto](#descrição-do-projeto)  
@@ -28,7 +26,8 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  O **Amigo Secreto** é uma aplicação web simples que permite aos usuários inserir nomes de amigos e realizar um sorteio aleatório para determinar quem será o "amigo secreto". O projeto foi desenvolvido usando **HTML, CSS e JavaScript puro**.
+  I just love **bold text**.
+  O **Amigo Secreto** é uma aplicação web simples que permite aos usuários inserir nomes de amigos e realizar um sorteio aleatório para determinar quem será o "amigo secreto". O projeto foi desenvolvido usando *HTML, CSS e JavaScript puro*.
 </p>
 
 ---
@@ -46,13 +45,9 @@
 
 🚀 **[Link do Deploy](#)** _(caso disponível)_  
 
-Caso não haja um deploy, veja abaixo uma prévia do projeto:
-
-
-![Preview do Projeto]
-| [<img src="https://github.com/anandamatos/challenge_amigo-secreto/blob/main/assets/capa.png?raw=true" width=115>] |
+| <img src="https://github.com/anandamatos/challenge_amigo-secreto/blob/main/assets/capa.png?raw=true" width=350px> |
 | :---: |
-(assets/capa.png)
+Preview do Projeto
 
 ---
 
