@@ -41,3 +41,18 @@ function atualizarLista() {
       listaAmigos.appendChild(li);
   });
 }
+
+// Função para sortear um amigo
+function sortearAmigo() {
+  if (amigos.length === 0) {
+      alert("Adicione pelo menos um nome antes de sortear.");
+      return;
+  }
+
+  // Sorteia um nome aleatório
+  const indiceSorteado = Math.floor(Math.random() * amigos.length);
+  const nomeSorteado = amigos[indiceSorteado];
+
+  // Exibe o resultado na tela
+  resultadoSorteio.innerHTML = `<li>🎉 Amigo secreto: <strong>${nomeSorteado}</strong> 🎁</li>`;
+}
