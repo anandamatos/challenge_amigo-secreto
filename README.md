@@ -48,7 +48,11 @@
 
 Caso não haja um deploy, veja abaixo uma prévia do projeto:
 
-![Preview do Projeto](assets/capa.png)
+
+![Preview do Projeto]
+| [<img src="https://github.com/anandamatos/challenge_amigo-secreto/blob/main/assets/capa.png?raw=true" width=115>] |
+| :---: |
+(assets/capa.png)
 
 ---
 
@@ -77,7 +81,7 @@ Caso não haja um deploy, veja abaixo uma prévia do projeto:
 
 ## Resolvendo problemas :exclamation:
 
-Em [issues](https://github.com/anandamatos/challenge_amigo-secreto/issues) foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+Em [issues](https://github.com/anandamatos/challenge_amigo-secreto/issues/) foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
 ## Tarefas em aberto
 
@@ -87,7 +91,7 @@ Em [issues](https://github.com/anandamatos/challenge_amigo-secreto/issues) foram
 
 ## Desenvolvedores :octocat:
 
-| [<img src="https://avatars.githubusercontent.com/u/10395786?v=4" width=115><br><sub>Ananda Matos</sub>](https://github.com/seu-usuario) |
+| [<img src="https://avatars.githubusercontent.com/u/10395786?v=4" width=115><br><sub>Ananda Matos</sub>](https://github.com/anandamatos) |
 | :---: |
 
 ## Licença
