@@ -62,7 +62,7 @@ Caso não haja um deploy, veja abaixo uma prévia do projeto:
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/amigo-secreto.git
+   git clone https://github.com/anandamatos/challenge_amigo-secreto.git
 ## Abra o arquivo `index.html` no seu navegador
 
 1. Navegue até a pasta do projeto após clonar o repositório.
@@ -77,7 +77,7 @@ Caso não haja um deploy, veja abaixo uma prévia do projeto:
 
 ## Resolvendo problemas :exclamation:
 
-Em [issues](https://github.com/seu-usuario/amigo-secreto/issues) foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+Em [issues](https://github.com/seu-usuario/amigo-secreto/issues/capa.png) foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
 
 ## Tarefas em aberto
 
@@ -87,11 +87,11 @@ Em [issues](https://github.com/seu-usuario/amigo-secreto/issues) foram abertos a
 
 ## Desenvolvedores :octocat:
 
-| [<img src="https://avatars.githubusercontent.com/u/seusuario" width=115><br><sub>Seu Nome</sub>](https://github.com/seu-usuario) |
+| [<img src="https://avatars.githubusercontent.com/u/10395786?v=4" width=115><br><sub>Ananda Matos</sub>](https://github.com/seu-usuario) |
 | :---: |
 
 ## Licença
 
 The [MIT License](https://opensource.org/licenses/MIT) (MIT)
 
-Copyright :copyright: 2023 - Amigo Secreto
+Copyright :copyright: 2025 - Amigo Secreto
