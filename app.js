@@ -11,7 +11,7 @@ function adicionarAmigo() {
   const nome = inputNome.value.trim(); // Captura e remove espaços extras
 
   if (nome === "") {
-      alert("Por favor, digite um nome válido.");
+      alert("Por favor, insira um nome.");
       return;
   }
 
@@ -29,4 +29,15 @@ function adicionarAmigo() {
   // Limpa o campo de entrada
   inputNome.value = "";
   inputNome.focus();
+}
+
+// Função para atualizar a lista de amigos na tela
+function atualizarLista() {
+  listaAmigos.innerHTML = ""; // Limpa a lista antes de atualizar
+
+  amigos.forEach((nome) => {
+      const li = document.createElement("li");
+      li.textContent = nome;
+      listaAmigos.appendChild(li);
+  });
 }
