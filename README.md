@@ -44,7 +44,7 @@
 
 | <img src="https://github.com/anandamatos/challenge_amigo-secreto/blob/main/assets/capa.png?raw=true" width=350px> |
 | :---: |
-Preview do Projeto
+ [Preview do Projeto](https://anandamatos.github.io/challenge_amigo-secreto/)
 
 ---
 
