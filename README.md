@@ -26,8 +26,7 @@
 ## Descrição do projeto 
 
 <p align="justify">
-  I just love **bold text**.
-  O **Amigo Secreto** é uma aplicação web simples que permite aos usuários inserir nomes de amigos e realizar um sorteio aleatório para determinar quem será o "amigo secreto". O projeto foi desenvolvido usando *HTML, CSS e JavaScript puro*.
+  O <strong>Amigo Secreto</strong> é uma aplicação web simples que permite aos usuários inserir nomes de amigos e realizar um sorteio aleatório para determinar quem será o "amigo secreto". O projeto foi desenvolvido usando <strong>HTML, CSS e JavaScript puro</strong>.
 </p>
 
 ---
@@ -41,9 +40,7 @@
 
 ---
 
-## Layout ou Deploy
-
-🚀 **[Link do Deploy](#)** _(caso disponível)_  
+##🚀 Layout ou Deploy
 
 | <img src="https://github.com/anandamatos/challenge_amigo-secreto/blob/main/assets/capa.png?raw=true" width=350px> |
 | :---: |
@@ -76,7 +73,7 @@ Preview do Projeto
 
 ## Resolvendo problemas :exclamation:
 
-Em [issues](https://github.com/anandamatos/challenge_amigo-secreto/issues/) foram abertos alguns problemas gerados durante o desenvolvimento desse projeto e como foram resolvidos.
+Em [issues](https://github.com/anandamatos/challenge_amigo-secreto/issues/) ainda não foram abertos algun problemas gerados durante o desenvolvimento desse projeto porem penso num futuro proximo mudar o design pra ficar mais personalizado.
 
 ## Tarefas em aberto
 
@@ -84,7 +81,7 @@ Em [issues](https://github.com/anandamatos/challenge_amigo-secreto/issues/) fora
 :memo: Implementar um sistema de login para salvar listas  
 :memo: Adicionar animações ao sortear o amigo secreto  
 
-## Desenvolvedores :octocat:
+## Desenvolvedor :octocat:
 
 | [<img src="https://avatars.githubusercontent.com/u/10395786?v=4" width=115><br><sub>Ananda Matos</sub>](https://github.com/anandamatos) |
 | :---: |
@@ -93,4 +90,4 @@ Em [issues](https://github.com/anandamatos/challenge_amigo-secreto/issues/) fora
 
 The [MIT License](https://opensource.org/licenses/MIT) (MIT)
 
-Copyright :copyright: 2025 - Amigo Secreto
+Copyright :copyright: 2025 - Ananda Matos
